@@ -5,7 +5,7 @@ Birth date:	24. December 1972
 
 Birth place: Zeulenroda/Thuringia
 
-## Ecucation and Work Experience
+## Ecucation 
 
 1979-1989	Middle School of Zeulenroda
 
@@ -20,6 +20,8 @@ Subject: teacher for high school level mathematics and physics
 1997-2000	University of Leipzig
 
 PhD student at the faculty of physics and geo sciences, dept. physics of interfaces
+
+## Work Experience
 
 2000-2002	AddOn Systemhaus Süd GmbH
 
