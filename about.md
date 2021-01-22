@@ -35,3 +35,7 @@ Intersystem Specialist, OS/Services Manager, Manager Linux Strategy & Server Aut
 ## 2015-2021 Amadeus Data Processing GmbH
 
 Enterprise Architect, Technology Evangelist, Community Ambassador & Influencer
+
+
+
+[back](index.md)
