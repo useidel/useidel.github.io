@@ -1,6 +1,7 @@
 ## Personal	
 
 Name:	Udo Seidel
+
 Birth date:	24. December 1972
 
 Birth place: Zeulenroda/Thuringia
