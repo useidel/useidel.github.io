@@ -1,8 +1,8 @@
-Personal	
+##Personal	
 Name:	Udo Seidel
 Birth date:	24. December 1972
 Birth place:	Zeulenroda/Thuringia
-Ecucation and Work Experience
+##Ecucation and Work Experience
 1979-1989	Middle School of Zeulenroda
 1989-1991	High School of Zeulenroda
 1991-1992	basic military service
