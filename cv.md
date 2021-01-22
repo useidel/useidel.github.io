@@ -1,7 +1,5 @@
 ## Personal	
 
-Name:	Udo Seidel
-
 Birth date:	24. December 1972
 
 Birth place: Zeulenroda/Thuringia
@@ -24,18 +22,18 @@ PhD student at the Faculty of Physics and Geo Sciences
 
 ## Work Experience
 
-######2000-2002	AddOn Systemhaus Süd GmbH
+###### 2000-2002	AddOn Systemhaus Süd GmbH
 
 IT Consultant
 
-######2002-2005	science+computing ag
+###### 2002-2005	science+computing ag
 
 System Administrator, Senior Solution Engineer
 
-######2006-2015	Amadeus Data Processing GmbH
+###### 2006-2015	Amadeus Data Processing GmbH
 
 OS/Services Manager, Manager Linux Stratey, Server Automation
 
-######2015-2021 Amadeus Data Processing GmbH
+###### 2015-2021 Amadeus Data Processing GmbH
 
 Enterprise Architect and Technology Evangelist
