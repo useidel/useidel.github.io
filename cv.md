@@ -1,3 +1,7 @@
+layout: page
+title: "ABOUT UDO"
+permalink: /about/
+
 # Personal	
 
 Birth date:	24. December 1972
