@@ -16,25 +16,26 @@ Birth place: Zeulenroda/Thuringia
 
 1992-1997	University of Leipzig
 
-Subject: teacher for high school level mathematics and physics
+Teacher for Mathematics and Physics (High School level)
 
 1997-2000	University of Leipzig
 
-PhD student at the faculty of physics and geo sciences, dept. physics of interfaces
+PhD student at the Faculty of Physics and Geo Sciences
 
 ## Work Experience
 
-2000-2002	AddOn Systemhaus Süd GmbH
+######2000-2002	AddOn Systemhaus Süd GmbH
 
 IT Consultant
-2002-2005	science+computing ag
+
+######2002-2005	science+computing ag
 
 System Administrator, Senior Solution Engineer
 
-2006-2015	Amadeus Data Processing GmbH
+######2006-2015	Amadeus Data Processing GmbH
 
 OS/Services Manager, Manager Linux Stratey, Server Automation
 
-2015-2021 Amadeus Data Processing GmbH
+######2015-2021 Amadeus Data Processing GmbH
 
 Enterprise Architect and Technology Evangelist
