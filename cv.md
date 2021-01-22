@@ -32,7 +32,7 @@ System Administrator, Senior Solution Engineer
 
 2006-2015	Amadeus Data Processing GmbH
 
-OS/Services Manager, Linux Stratey, Server Automation
+OS/Services Manager, Manager Linux Stratey, Server Automation
 
 2015-2021 Amadeus Data Processing GmbH
 
