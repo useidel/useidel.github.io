@@ -34,4 +34,4 @@ OS/Services Manager, Manager Linux Strategy & Server Automation
 
 ## 2015-2021 Amadeus Data Processing GmbH
 
-Enterprise Architect, Technology Evangelist, Community Ambassador
+Enterprise Architect, Technology Evangelist, Community Ambassador & Influencer
