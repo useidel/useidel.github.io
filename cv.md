@@ -22,7 +22,7 @@ PhD student at the Faculty of Physics and Geo Sciences
 
 ## 2000-2002	AddOn Systemhaus Süd GmbH
 
-IT Consultant
+IT Consultant and Trainer
 
 ## 2002-2005	science+computing ag
 
@@ -30,8 +30,8 @@ System Administrator, Senior Solution Engineer
 
 ## 2006-2015	Amadeus Data Processing GmbH
 
-OS/Services Manager, Manager Linux Stratey, Server Automation
+OS/Services Manager, Manager Linux Strategy & Server Automation
 
 ## 2015-2021 Amadeus Data Processing GmbH
 
-Enterprise Architect and Technology Evangelist
+Enterprise Architect, Technology Evangelist, Community Ambassador
