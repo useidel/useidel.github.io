@@ -12,11 +12,11 @@ Birth place: Zeulenroda/Thuringia
 
 1991-1992	Basic Military Service
 
-1992-1997	University of Leipzig
+###### 1992-1997	University of Leipzig
 
 Teacher for Mathematics and Physics (High School level)
 
-1997-2000	University of Leipzig
+###### 1997-2000	University of Leipzig
 
 PhD student at the Faculty of Physics and Geo Sciences
 
