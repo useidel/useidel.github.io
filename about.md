@@ -8,7 +8,7 @@ Birth place: Zeulenroda/Thuringia
 
 ## 1979-1991	Middle and High School of Zeulenroda
 
-## 1991-1992	Basic Military Service
+## 1991-1992	Military Service
 
 ## 1992-1997	University of Leipzig
 
