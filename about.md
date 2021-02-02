@@ -18,7 +18,7 @@ Teacher for Mathematics and Physics (High School level)
 
 PhD student at the Faculty of Physics and Geo Sciences
 
-# Work Experience
+# Work
 
 ## 2000-2002	AddOn Systemhaus Süd GmbH
 
