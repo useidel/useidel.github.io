@@ -36,6 +36,8 @@ Intersystem Specialist, OS/Services Manager, Manager Linux Strategy & Server Aut
 
 Enterprise Architect, Technology Evangelist, Community Ambassador & Influencer
 
+## 2021 Fujitsu TDS
 
+Account CTO
 
 [back](index.md)
