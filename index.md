@@ -1,4 +1,4 @@
-Dr. Udo Seidel would have been a teacher for mathematics and physics if he would not have been infected by the Linux virus in 1996. After his PhD he worked as Linux/Unix instructor, sysadmin and senior solution engineer. He is an enterprise architect and digital evangelist at the Amadeus Data Processing GmbH near Munich. He regularly speaks at conferences and publishes articles in computer magazines. On top he shares his IT thoughts and adventures on [Twitter](http://twitter.com/useidel) and [Facebook](http://www.facebook.com/udo.seidel.18).
+Dr. Udo Seidel would have been a teacher for mathematics and physics if he would not have been infected by the Linux virus in 1996. After his PhD he worked as Linux/Unix instructor, sysadmin and senior solution engineer. He is an Account CTO at Fujitsu TDS GmbH in Munich. He regularly speaks at conferences and publishes articles in computer magazines. On top he shares his IT thoughts and adventures on [Twitter](http://twitter.com/useidel) and [Facebook](http://www.facebook.com/udo.seidel.18).
 
 Be prepared to find traces on other social channels too...
 
