@@ -40,4 +40,8 @@ Enterprise Architect, Technology Evangelist, Community Ambassador & Influencer
 
 Account CTO
 
+## 2022 Fujitsu Services GmbH
+
+Overall Solution Architect/Solution Manager
+
 [back](index.md)
