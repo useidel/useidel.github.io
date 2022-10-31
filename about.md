@@ -44,4 +44,8 @@ Account CTO
 
 Overall Solution Architect/Solution Manager
 
+## 2022 Kong Inc.
+
+Senior Customer Experience Architect
+
 [back](index.md)
