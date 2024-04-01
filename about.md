@@ -48,4 +48,8 @@ Overall Solution Architect/Solution Manager
 
 Senior Customer Experience Architect
 
+## 2024 XM Cyber 
+
+Customer Success Manager
+
 [back](index.md)
